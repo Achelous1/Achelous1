@@ -1,7 +1,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jsdesign1204@gmail.com)](mailto:jsdesign1204@gmail.com)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAchelous1&count_bg=%2379C83D&title_bg=%23555555&icon=atom.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br/>
-- 🔭 I’m currently working at HNC Tech. as a Web Developer. Currently, I am working for TSB - Software migration.
+- 🔭 I’m currently working at Alignup as a Web Developer. Currently, I am working on [alignup.io](alignup.io) v1.0 management
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
