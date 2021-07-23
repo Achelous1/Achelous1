@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&section=footer&color=timeGradient&height=250&text=Jinsu%20Ha&fontAlign=65&fontAlignY=70&desc=Chin%20Shuu&descSize=25&descAlign=74&descAlignY=85&animation=fadeIn)
 
 <p align="center">👋  Hello there, it's Jinsu Ha from South Korea. I'm really pleased to meet you here!</p>
-<p align="center">🔭 I’m currently working at "Kensington World" as a `Web Developer`. <br/>Currently, I am working on [alignup.io](http://alignup.io) v1.0 management</p>
+<p align="center">🔭 I’m currently working at "Kensington World" as a `Web Developer`. <br/>Currently, I am working on <a href="http://alignup.io">alignup.io</a> v1.0 management</p>
 <br/>
 
 <p align="center">
