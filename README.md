@@ -1,7 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&section=footer&color=timeGradient&height=250&text=Jinsu%20Ha&fontAlign=65&fontAlignY=70&desc=Chin%20Shuu&descSize=25&descAlign=74&descAlignY=85&animation=fadeIn)
 
-<p align="center">👋  Hello there, it's Jinsu Ha from South Korea. I'm really pleased to meet you here!</p>
-<p align="center">🔭 I’m currently working at "Kensington World" as a `Web Developer`. <br/>Currently, I am working on <a href="http://alignup.io">alignup.io</a> v1.0 management</p>
+<div align="center">
+
+  <div style="float:right;">
+    <p>👋  Hello there, it's Jinsu Ha from South Korea. I'm really pleased to meet you here!</p>
+    <p>🔭 I’m currently working at "Kensington World" as a `Web Developer`. <br/>Currently, I am working on <a href="http://alignup.io">alignup.io</a> v1.0 management and v2.0 development</p>
+  </div>
+    <div>
+  <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Achelous1/Achelous1/blob/main/devcard.svg" width="200" alt="Chin Shuu's Dev Card"/></a>
+  </div>
+</div>
+
 <br/>
 
 <p align="center">
@@ -13,20 +22,11 @@
   </a>
   
 </p>
-<div align="center">
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Achelous1/Achelous1/blob/main/devcard.svg" width="200" alt="Chin Shuu's Dev Card"/></a>
-</div>
+
 
 <div align="center">
-<h3> Github Stats </h3>
+<h3> Github Stats⚡ </h3>
 <img src="https://github-readme-stats.vercel.app/api?username=Achelous1&count_private=true&show_icons=true&theme=vue">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achelous1&langs_count=10&layout=compact">
-
+  <h3> Languages Used in Repositories⚡ </h3>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achelous1&langs_count=10&layout=compact"><br/>
 </div>
-<!--
-### GitHub Stats⚡
-![ISA github stats](https://github-readme-stats.vercel.app/api?username=Achelous1&count_private=true&show_icons=true&theme=vue)
-
-### Languages Used in Repositories⚡
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Achelous1&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
--->
