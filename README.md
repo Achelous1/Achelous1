@@ -7,7 +7,7 @@
     <p>🔭 I’m currently working at "Kensington World" as a `Web Developer`. <br/>Currently, I am working on <a href="http://alignup.io">alignup.io</a> v1.0 management and v2.0 development</p>
   </div>
     <div>
-  <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Achelous1/Achelous1/blob/main/devcard.svg" width="200" alt="Chin Shuu's Dev Card"/></a>
+  <a href="https://app.daily.dev/jsdesign1204"><img src="https://github.com/Achelous1/Achelous1/blob/main/devcard.svg" width="200" alt="Chin Shuu's Dev Card"/></a>
   </div>
 </div>
 
