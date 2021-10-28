@@ -10,7 +10,7 @@
   
   <br/>
   
-  # 🗄️ Stacks
+  # 🗄️ Languages I have used..
   
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -20,7 +20,7 @@
   
   <br/><br/>
   
-  # 🖼️ Frameworks I have experienced with..
+  # 🖼️ Frameworks I have worked on with..
 
   <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
