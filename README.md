@@ -20,7 +20,7 @@
   
   <br/><br/>
   
-  # 🖼️ Frameworks I have worked on with..
+  # 🖼️ Frameworks and Libraries I have worked on with..
 
   <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
