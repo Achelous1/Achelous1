@@ -27,6 +27,8 @@
   <img src="https://img.shields.io/badge/Spring%20framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   
+  <br/><br/>
+  
   # 🏆 Trophies
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=Achelous1)](https://github.com/ryo-ma/github-profile-trophy)
