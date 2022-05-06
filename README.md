@@ -32,5 +32,6 @@
   # 🏆 Trophies
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=Achelous1)](https://github.com/ryo-ma/github-profile-trophy)
+  <a href="https://opgc.me/#/users/Achelous1" target="_blank"><img src="https://api.opgc.me/githubs/users/Achelous1/tag/?theme=basic" /></a>
   
 </div>
