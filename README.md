@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&section=footer&color=timeGradient&height=250&text=Jinsu%20Ha&fontAlign=65&fontAlignY=70&desc=Chin%20Shuu&descSize=25&descAlign=74&descAlignY=85&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&section=footer&color=timeGradient&height=250&text=Jinsu%20Ha&fontAlign=65&fontAlignY=70&desc=Chinshuu&descSize=25&descAlign=74&descAlignY=85&animation=fadeIn)
 
 <div align="center">
 
