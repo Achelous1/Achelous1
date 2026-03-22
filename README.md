@@ -4,7 +4,7 @@
 
   <div style="float:right;">
     <p>👋  Hello there, it's Jinsu Ha from South Korea. I'm really pleased to meet you here!</p>
-    <p>🔭 I’m currently working as a Backend Developer. <br/>Currently, I am working on Backend side of Neubility platform</p>
+    <p>🔭 I’m currently working as a Backend Developer. <br/>Currently, I am working on Backend side of Actimedi services</p>
   </div>
   
   
