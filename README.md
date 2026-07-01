@@ -31,6 +31,5 @@
   
 # 🏆 Token Usage Status
 
-[![Tokscale Stats](https://tokscale.ai/api/embed/Achelous1/svg?theme=dark)](https://tokscale.ai/u/Achelous1)
-
+[![Tokscale Stats](https://tokscale.ai/api/embed/Achelous1/svg?view=3d&theme=light&template=receipt&color=blue&tokens=compact&cost=compact)](https://tokscale.ai/u/Achelous1)
 </div>
